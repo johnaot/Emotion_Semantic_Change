@@ -1,0 +1,112 @@
+Article of clothing
+
+pants 1.20 .78 t-shirt 2.38 1.29 vest 3.68 1.65 shirt 1.36 1.03 shoes 2.42 1.55 slip 3.70 1.85 dress 1.58 1.20 shorts 2.44 1.26 stockings 3.80 1.76 trousers 1.62 1.18 sweater 2.50 1.23 tie 4.14 1.75 blouse 1.86 1.34 socks 2.60 1.39 belt 4.22 1.72 slacks 1.86 1.25 suit 2.66 1.66 nylons 4.34 1.76 skirt 1.92 1.24 underpants 2.74 1.58 scarf 4.42 1.69 coat 2.12 1.29 undershirt 3.18 1.83 hat 4.42 1.85 jacket 2.20 1.28 bra 3.26 1.75 girdle 4.42 1.96 underwear 2.30 1.50 overcoat 3.46 1.72 gloves 4.72 1.70
+
+Furniture
+
+chair 1.24 .59 chest 2.50 1.59 divan 3.64 2.11 table 1.26 .69 bureau 2.64 1.61 footstool 3.70 1.58 couch 1.32 1.11 bookcase 2.76 1.52 piano 3.98 1.68 sofa 1.48 1.34 cabinet 2.80 1.51 hifi 4.06 1.67 end table 1.80 1.07 lamp 2.98 1.63 stereo 4.32 1.73 coffee table 1.80 1.36 lounge 3.20 1.71 hassock 4.38 1.81 desk 1.96 1.37 davenport 3.26 2.16 television 4.60 1.88 bed 2.04 1.43 stool 3.32 1.70 rug 4.60 2.03 dresser 2.08 1.26 bench 3.38 1.70 radio 5.30 1.76 love seat 2.16 1.71 buffet 3.50 1.92 picture 5.32 1.52
+
+Bird
+
+dove 2.04 1.29 parakeet 2.82 1.56 owl 3.40 1.85 bluejay 2.14 1.46 parrot 2.84 1.68 hummingbird 3.40 1.92 robin 2.16 1.39 jay 2.86 1.76 swallow 3.44 1.91 sparrow 2.16 1.42 seagull 2.88 1.76 oriole 3.56 1.59 pigeon 2.36 1.72 cardinal 2.90 1.68 duck 3.94 2.06 bluebird 2.38 1.54 woodpecker 3.06 1.63 thrush 4.20 2.08 blackbird 2.52 1.58 wren 3.18 1.73 starling 4.20 1.81 eagle 2.56 1.67 hawk 3.20 1.77 chicken 4.32 2.06 crow 2.70 1.66 redbird 3.30 1.80 pheasant 4.62 1.94 canary 2.72 1.67 falcon 3.32 1.57 vulture 4.74 1.87
+
+Carpenter’s tool
+
+saw 1.28 1.03 sander 3.06 1.60 pencil 3.72 2.35 hammer 1.52 1.23 plane 3.10 1.88 square 4.20 1.93 screwdriver 1.98 1.44 screws 3.14 1.93 awl 4.30 1.83 nails 1.98 1.77 vise 3.14 1.73 wedge 4.34 1.56 drill 2.22 1.53 lathe 3.36 2.01 wrench 4.40 1.86 level 2.38 1.44 pliers 3.42 1.64 knife 4.54 1.97 saw horse 2.46 1.69 t-square 3.50 1.72 axe 4.74 1.78 sandpaper 2.70 1.54 tri square 3.56 1.69 plumb line 4.92 1.74 wood 2.72 2.42 chisel 3.64 1.64 crow bar 5.32 1.74 ruler 2.76 1.65 file 3.70 1.78 plumb 5.50 1.40
+
+Color
+
+red 1.38 1.10 turquoise 2.96 1.54 burgundy 3.60 1.64 blue 1.38 1.23 gold 3.20 1.70 black 3.64 2.24 yellow 1.44 1.18 scarlet 3.30 1.75 white 3.66 2.40 green 1.58 1.03 rose 3.44 1.49 maroon 3.72 1.59 orange 1.80 1.18 lavender 3.46 1.63 tan 3.84 1.87 purple 2.06 1.19 aqua 3.48 1.69 navy 3.90 1.85 violet 2.64 1.41 silver 3.52 2.02 magenta 3.92 1.84 pink 2.70 1.45 beige 3.52 2.02 chartreuse 4.02 2.04 blue-green 2.80 1.36 indigo 3.56 1.88 olive 4.36 1.70 brown 2.94 1.80 gray 3.58 2.12 mauve 4.64 1.87
+
+Country
+
+United States 1.36 1.21 Russia 2.20 1.71 Argentina 2.96 1.70 France 1.80 1.41 China 2.30 1.67 Ireland 3.06 1.53 England 1.94 1.42 Sweden 2.32 1.58 Scotland 3.08 1.59 Italy 1.94 1.48 America 2.56 2.08 India 3.10 1.98 Japan 1.98 1.42 Brazil 2.64 1.57 Israel 3.12 1.85 Germany 2.02 1.57 Norway 2.70 1.69 Greece 3.24 2.05 Spain 2.02 1.36 Denmark 2.72 1.40 Belgium 3.28 1.71 Switzerland 2.12 1.35 Australia 2.74 1.94 Cuba 3.42 2.04 Mexico 2.14 1.54 Poland 2.84 1.75 Vietnam 3.80 2.06 Canada 2.14 1.88 Austria 2.94 1.72 Africa 4.84 2.67
+
+Four-footed animal
+
+dog 1.50 1.15 goat 2.68 1.27 camel 3.66 1.72 cat 1.66 1.21 sheep 2.72 1.37 moose 3.80 1.81 horse 1.94 1.39 fox 2.78 1.57 giraffe 4.10 1.94 cow 2.30 1.53 zebra 2.86 1.46 rhinoceros 4.12 1.69 wolf 2.36 1.32 mule 2.94 1.58 rabbit 4.26 1.82 lion 2.44 1.46 antelope 3.16 1.62 mouse 4.36 1.90 tiger 2.46 1.39 bull 3.20 1.56 bear 4.38 1.92 deer 2.56 1.33 buffalo 3.32 1.65 squirrel 4.42 1.96 donkey 2.62 1.29 elephant 3.34 1.92 hippopotamos 4.44 1.85 leopard 2.68 1.63 pig 3.38 1.66 rat 4.56 1.81
+
+Fruit
+
+orange 1.14 .73 tangerine 2.44 1.54 watermelon 3.12 1.59 apple 1.18 .66 plum 2.46 1.54 lime 3.24 1.80 pear 1.64 .92 apricot 2.46 1.58 mango 3.74 2.01 banana 1.70 1.34 lemon 2.58 1.69 raisin 4.22 1.85 peach 1.86 1.34 pineapple 2.60 1.47 prunes 4.28 1.85 strawberry 2.02 1.38 blueberry 2.62 1.54 fig 4.32 1.80 cherry 2.02 1.39 raspberry 2.78 1.75 pomegranate 4.72 1.81 grape 2.10 1.11 melon 2.80 1.56 coconut 4.78 1.66 grapefruit 2.26 1.24 cantaloupe 2.88 1.72 avocado 5.28 1.86 nectarine 2.32 1.50 berry 2.96 1.82 tomato 5.28 1.80
+
+Kind of cloth
+
+cotton 1.46 1.16 velvet 2.80 1.54 burlap 4.34 2.07 wool 1.86 1.16 muslin 3.46 1.84 seersucker 4.36 1.82 silk 1.86 1.23 tweed 3.50 1.62 broadcloth 4.40 2.05 terry cloth 2.14 1.58 chiffon 3.80 1.60 crepe 4.48 1.74 linen 2.28 1.64 dacron 3.86 1.81 mohair 4.64 1.59 flannel 2.34 1.41 cheesecloth 3.88 1.93 jersey 4.70 1.85 nylon 2.60 1.56 canvas 4.14 1.91 taffeta 4.80 1.73 corduroy 2.64 1.70 rayon 4.16 1.83 brocade 4.94 1.80 denim 2.70 1.69 orlon 4.24 1.91 madras 5.46 1.66 satin 2.72 1.46 acrilan 4.34 1.80 acetate 5.52 1.54
+
+Kind of money
+
+dollar bill 1.34 .77 francs 2.54 1.82 centavo 3.08 1.86 dollars 1.50 .84 shilling 2.56 1.82 pence 3.26 2.10 dimes 1.80 1.07 pesos 2.62 1.88 pounds 3.30 2.01 pennies 1.82 1.30 cents 2.68 1.85 ruble 3.32 2.18 quarters 1.90 1.11 ten dollars 2.76 1.74 gold 3.50 2.04 nickels 1.90 1.37 yen 2.80 2.00 silver 4.08 2.09 half-dollar 2.24 1.22 mark 2.92 2.03 check 4.28 2.11 fifty-cent piece 2.32 1.39 lira 3.00 2.02 bill 4.46 2.32 silver dollar 2.32 1.45 paper money 3.04 2.18 bonds 4.82 2.03 coins 2.44 1.53 gold piece 3.08 1.87 five 4.86 2.10
+
+Kitchen utensil
+
+knife 1.78 1.18 ladle 2.80 1.41 cup 3.40 1.75 spoon 1.98 1.41 mixer 2.80 1.60 dish 3.42 1.77 fork 2.06 1.39 rolling pin 3.00 1.78 toaster 3.48 1.58 measuring cup 2.08 1.28 plate 3.02 1.62 glass 3.86 1.64 measuring spoons 2.14 1.36 egg beater 3.04 1.83 saucer 4.02 1.60 pot 2.18 1.22 beater 3.08 1.66 pot holder 4.10 1.95 spatula 2.24 1.36 can opener 3.10 1.69 oven 4.16 2.04 pan 2.36 1.26 bowl 3.18 1.44 stove 4.36 2.08 frying pan 2.60 1.18 blender 3.22 1.64 refrigerator 4.48 2.06 skillet 2.66 1.41 strainer 3.34 1.98 sink 4.80 1.78
+
+Member of the clergy
+
+priest 1.52 1.13 preacher 3.08 1.83 brother 4.60 1.83 minister 1.76 1.06 monk 3.10 1.81 deaconess 4.84 1.74 reverend 1.80 1.16 rabbi 3.10 2.06 monsignor 4.84 2.08 clergyman 2.00 1.65 chaplain 3.18 1.55 evangelist 5.30 1.53 bishop 2.44 1.64 cardinal 3.22 1.93 abbot 5.36 1.63 pope 2.44 1.98 sister 3.36 1.88 subdeacon 5.42 1.58 pastor 2.60 1.67 deacon 3.76 1.89 elder 5.58 1.34 father 2.64 2.03 parson 4.00 1.82 rector 5.60 1.64 nun 2.64 1.69 friar 4.02 1.82 cantor 5.76 1.52 archbishop 2.68 1.52 missionary 4.42 1.60 doctor 6.32 1.42
+
+Metal
+
+iron 1.24 .74 lead 2.12 1.44 lithium 4.58 1.95 steel 1.32 .94 platinum 3.02 1.62 manganese 4.62 1.59 tin 1.50 .81 zinc 3.04 1.48 mercury 4.64 1.79 aluminum 1.52 .97 chromium 3.30 2.02 cobalt 5.04 1.77 copper 1.60 .99 tungsten 3.52 2.20 beryllium 5.08 1.94 brass 1.72 1.18 ore 3.60 1.93 cadmium 5.24 1.72 silver 1.84 1.18 alloy 3.90 2.04 rubidium 5.26 1.91 gold 1.92 1.23 uranium 4.00 1.92 potassium 5.34 1.55 bronze 1.94 1.25 magnesium 4.28 1.85 sodium 5.82 1.37 nickel 1.96 1.44 titanium 4.56 1.97 calcium 5.98 1.42
+
+Musical instrument
+
+piano 1.48 1.30 drum 2.74 2.04 bass 3.54 1.68 guitar 1.54 1.20 fiddle 2.88 1.35 viola 3.54 1.82 flute 1.68 1.08 horn 2.90 1.71 harpsichord 3.56 1.77 trumpet 1.82 1.06 tuba 2.94 1.52 bassoon 3.68 1.81 violin 2.02 1.36 french horn 3.00 1.50 bass fiddle 3.76 1.85 saxophone 2.22 1.37 cello 3.02 1.63 accordion 3.84 1.73 trombone 2.40 1.28 harp 3.14 1.73 oboe 4.00 2.03 clarinet 2.42 1.37 bugle 3.34 1.78 cymbals 4.08 1.71 organ 2.46 1.49 piccolo 3.44 1.86 cornet 4.24 1.76 banjo 2.66 1.36 harmonica 3.48 1.69 xylophone 4.32 1.88
+
+Natural earth formation
+
+Grand Canyon 1.60 1.23 river 2.92 1.78 desert 3.24 1.88 mountain 1.84 1.53 gorge 3.00 1.70 lake 3.26 2.03 volcano 2.08 1.50 cliff 3.04 1.34 crevice 3.28 1.64 island 2.22 1.34 cavern 3.06 1.67 rock 3.32 1.82 valley 2.36 1.68 ocean 3.10 2.28 crater 3.54 2.12 cave 2.56 1.53 stone 3.14 1.77 hill 3.62 1.48 canyon 2.64 1.51 sea 3.14 2.14 ravine 3.64 1.59 glacier 2.70 1.58 ridge 3.16 1.61 gully 3.72 1.58 stream 2.72 1.62 plain 3.16 1.74 stalactite 3.74 2.26 creek 2.84 1.74 plateau 3.16 1.56 stalagmite 3.84 2.27
+
+Nonalcoholic beverage
+
+milk 1.78 1.56 pepsi 2.66 1.57 tomato juice 2.96 1.70 water 1.80 1.80 cocoa 2.66 1.73 sprite 3.00 1.54 lemonade 2.02 1.45 coke 2.68 1.56 limeade 3.00 1.59 iced tea 2.02 1.33 fruit juice 2.70 1.56 orange drink 3.04 1.47 soft drink 2.30 1.57 seven-up 2.72 1.59 root beer 3.10 1.71 tea 2.34 1.61 koolaid 2.76 1.67 mountain dew 3.16 1.48 apple juice 2.38 1.54 pop 2.80 1.76 soda 3.22 1.68 coffee 2.50 1.81 orangeade 2.84 1.30 ginger ale 3.34 1.91 grape juice 2.60 1.37 juice 2.90 1.69 punch 3.60 1.68 shake 2.66 1.71 grapefruit juice 2.90 1.61 teem 3.94 2.11
+
+Part of a building
+
+roof 1.98 1.72 hall 2.98 1.44 beams 3.98 1.66 door 2.00 1.54 foundation 3.00 2.05 glass 4.14 1.81 wall 2.32 1.53 bathroom 3.02 2.00 side 4.26 2.14 room 2.38 1.48 chimney 3.16 1.86 cornerstone 4.28 2.09 floor 2.52 1.59 kitchen 3.56 2.06 elevator 4.30 1.88 ceiling 2.64 1.61 steps 3.60 1.32 office 4.32 2.06 basement 2.72 1.73 attic 3.62 1.93 corner 4.32 2.02 stairway 2.84 1.45 stair 3.64 1.44 brick 4.46 1.62 window 2.94 1.74 lights 3.72 1.69 cement 4.74 1.78 cellar 2.98 1.74 closet 3.88 1.75 wood 5.20 1.68
+
+Part of the human body
+
+head 1.64 1.22 heart 2.36 1.83 shoulders 2.94 1.48 legs 1.66 1.08 face 2.54 1.73 elbow 2.96 1.86 hand 1.66 1.26 knee 2.54 1.50 ankle 3.16 1.68 foot 1.76 1.25 toe 2.56 1.77 tooth 3.44 2.00 arms 1.76 1.29 stomach 2.58 1.73 lungs 3.46 2.00 eye 1.88 1.41 back 2.76 1.60 throat 3.60 1.62 ear 2.10 1.39 neck 2.84 1.69 hair 3.66 1.97 nose 2.12 1.55 tongue 2.90 1.74 liver 3.88 2.13 mouth 2.34 1.27 brain 2.90 2.00 nail 4.28 2.11 finger 2.34 1.62 chest 2.92 1.54 trunk 4.36 1.99
+
+Sport
+
+basketball 1.28 .99 rugby 2.40 1.54 wrestling 3.68 1.79 baseball 1.40 1.21 handball 2.44 1.47 ice skating 3.78 1.62 football 1.48 1.25 skiing 2.50 1.52 boxing 3.78 1.92 tennis 1.72 1.20 gymnastics 2.86 1.63 horseback riding 3.88 1.79 soccer 1.74 1.07 polo 2.88 1.71 ping pong 3.98 1.78 volleyball 1.78 1.13 waterskiing 2.88 1.60 fencing 4.04 1.68 softball 2.02 1.36 badminton 3.12 1.45 bowling 4.12 1.78 hockey 2.16 1.57 racing 3.56 1.75 archery 4.46 1.53 track 2.18 1.38 lacrosse 3.60 2.11 fishing 4.48 1.75 swimming 2.30 1.33 golf 3.62 2.03 hunting 4.98 1.61
+
+State
+
+California 1.34 1.02 Ohio 3.12 1.67 Maine 3.62 1.79 Texas 2.30 1.46 Massachusetts 3.18 1.73 Indiana 3.62 1.70 New York 2.36 2.00 Michigan 3.22 1.56 North Carolina 3.68 1.61 Florida 2.38 1.24 Maryland 3.30 1.57 Mississippi 3.68 1.75 Colorado 2.64 1.64 Alaska 3.34 2.13 Georgia 3.70 1.91 Oregon 2.72 1.43 Vermont 3.50 1.79 Alabama 3.78 1.83 Pennsylvania 2.82 1.47 New Hampshire 3.52 1.76 Iowa 3.94 1.98 Washington 2.86 1.74 New Jersey 3.52 1.67 Wisconsin 4.06 1.81 Hawaii 2.90 1.88 Illinois 3.54 1.72 New Mexico 4.14 2.04 Virginia 2.94 1.54 South Carolina 3.60 1.70 Delaware 4.28 1.97
+
+Toy
+
+doll 1.46 .86 marbles 2.46 1.31 bat 3.82 1.62 yo-yo 1.72 .95 rocking horse 2.60 1.55 balloon 3.84 1.49 rattle 1.78 1.15 wagon 2.72 1.59 bike 3.96 1.73 doll house 1.84 .98 jump rope 3.00 1.48 bicycle 4.00 1.82 ball 1.88 1.12 truck 3.10 1.97 car 4.02 2.02 jacks 1.96 1.31 tricycle 3.10 1.49 soldiers 4.32 1.85 top 2.04 1.41 train 3.46 2.02 game 4.40 1.76 teddy bear 2.12 1.22 puzzle 3.64 1.60 rope 5.10 1.75 stuffed animal 2.18 1.27 plane 3.70 2.02 gun 5.48 2.04 block 2.42 1.30 boat 3.80 2.09 horse 5.52 1.73
+
+Tree
+
+oak 1.68 1.28 spruce 2.80 1.76 ash 3.44 1.75 pine 1.80 1.54 apple 2.90 1.67 pear 3.46 1.67 redwood 1.84 1.49 weeping willow 2.98 1.81 plum 3.60 1.68 fir 2.04 1.52 sycamore 3.00 1.75 chestnut 3.62 1.77 evergreen 2.30 1.81 cherry 3.16 1.77 hickory 3.72 1.96 birch 2.32 1.41 palm 3.22 2.03 poplar 4.38 2.00 maple 2.38 1.47 peach 3.22 1.71 dogwood 4.40 2.03 elm 2.38 1.61 beech 3.30 1.78 magnolia 4.44 2.03 walnut 2.74 1.83 orange 3.36 1.76 locust 5.34 1.79 cedar 2.76 1.68 willow 3.38 1.78 tulip 6.00 1.71
+
+Type of human dwelling
+
+house 1.12 .52 dorm 3.30 1.64 split-level 4.48 2.06 apartment 2.00 1.21 houseboat 3.74 1.80 motel 4.66 1.83 home 2.08 2.00 hut 3.88 1.61 shack 4.80 1.64 cottage 2.16 1.18 igloo 4.02 2.20 tent 4.82 1.64 cabin 2.22 1.18 building 4.04 2.22 hotel 4.84 1.65 ranch house 2.64 1.50 trailer 4.08 1.50 adobe 4.92 1.90 farmhouse 2.72 1.59 room 4.12 1.97 boat 5.16 1.89 log cabin 3.00 1.58 castle 4.12 2.18 tree house 5.18 1.71 duplex 3.16 1.50 bungalow 4.24 1.74 cave 5.48 1.79 mansion 3.20 1.82 teepee 4.46 1.86 lean-to 5.50 1.78
+
+Type of reading material
+
+book 1.44 1.15 periodical 3.02 1.71 comic book 3.88 1.87 novel 1.48 1.03 poem 3.04 1.48 bulletin 3.98 1.72 newspaper 1.60 1.12 nonfiction 3.04 1.97 encyclopedia 4.02 1.80 short story 2.00 1.12 letter 3.10 1.80 pamphlet 4.10 1.64 paperback 2.28 1.62 essay 3.20 1.48 brochure 4.10 1.97 magazine 2.36 1.54 poetry 3.22 1.61 leaflet 4.12 1.66 text book 2.44 1.72 journal 3.26 1.63 note 4.14 1.84 biography 2.44 1.43 Bible 3.32 1.80 paper 4.38 2.16 fiction 2.76 2.05 booklet 3.50 1.62 poster 5.20 1.76 article 2.88 1.39 play 3.68 1.98 dictionary 5.30 1.92
+
+Vehicle
+
+car 1.12 .85 bicycle 2.98 1.60 subway 4.26 1.76 auto 1.22 .82 train 3.06 1.88 trolley 4.28 1.67 truck 1.78 1.09 bike 3.12 1.55 helicopter 4.30 1.91 bus 1.84 1.25 airplane 3.26 2.01 wagon 4.36 1.90 cab 2.12 1.38 motorscooter 3.32 1.58 trailer 4.36 1.75 motorcycle 2.20 1.40 jet 3.46 1.91 tricycle 4.42 1.98 jeep 2.24 1.49 boat 3.68 1.89 carriage 4.54 1.97 taxi 2.32 1.50 ship 3.84 1.96 cart 4.60 1.70 motorbike 2.74 1.40 tractor 3.94 1.98 tank 4.96 1.92 streetcar 2.86 1.78 scooter 3.96 1.62 skates 5.90 1.52
+
+Vegetable
+
+carrot 1.60 1.31 lima beans 2.50 1.47 squash 3.28 1.77 green beans 1.68 1.19 bean 2.60 1.56 beets 3.28 1.53 spinach 1.84 1.27 cucumber 2.70 1.84 onions 3.36 1.91 string bean s 1.86 1.21 radishes 2.84 1.50 peppers 3.74 1.51 pea 1.92 1.16 cabbage 2.94 1.68 parsley 3.86 1.70 broccoli 2.04 1.29 brussels sprouts 2.94 1.66 eggplant 3.90 1.74 corn 2.16 1.39 potato 3.06 1.86 greens 3.94 2.16 lettuce 2.16 1.73 cauliflower 3.10 1.69 turnip 4.06 1.96 celery 2.38 1.44 green peppers 3.26 1.50 kale 4.92 1.93 asparagus 2.44 1.55 tomato 3.28 2.30 rice 5.34 L98
+
+Weapon
+
+pistol 1.40 1.12 bomb 3.00 1.77 whip 4.38 1.65 gun 1.40 1.05 bow and arrow 3.10 1.75 chain 4.52 1.67 rifle 1.44 1.09 bazooka 3.18 2.19 stick 4.82 1.61 machine gun 1.60 1.39 tank 3.20 2.06 rock 4.90 1.66 knife 1.86 1.43 club 3.24 1.51 poison 4.94 1.68 sword 2.38 1.64 brass knuckles 3.24 1.85 stone 5.18 1.66 hand grenade 2.68 1.72 cannon 3.36 1.97 rope 5.26 1.54 spear 2.70 1.72 arrow 3.48 1.75 hand 5.26 1.86 missile 2.72 2.00 fists 4.06 1.73 hammer 5.86 1.47 bayonet 2.90 1.90 ax 4.06 1.92 automobile 6.18 1.35
+
+Weather phenomenon
+
+thunderstorm 1.72 1.21 thunder 2.54 1.58 drought 3.38 2.01 tornado 1.94 1.57 fog 2.84 1.95 cold 3.82 1.97 storm 1.96 1.62 hail 2.84 1.91 sunny 3.90 2.02 hurricane 2.02 1.42 windstorm 2.84 1.80 humidity 4.10 1.68 typhoon 2.04 1.54 rainbow 2.86 178 sun 4.26 2.17 rain 2.08 1.70 lightning 2.92 1.78 ice 4.26 1.97 snow 2.34 1.75 wind 3.02 1.89 heat 4.32 1.77 hailstorm 2.44 1.68 sleet 3.04 1.93 tidal wave 4.38 2.18 cyclone 2.48 1.79 monsoon 3.10 2.26 hot 4.56 1.88 blizzard 2.48 1.94 clouds 3.30 1.84 earthquake 5.30 2.39
+

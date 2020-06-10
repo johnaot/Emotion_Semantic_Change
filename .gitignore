@@ -1,0 +1,9 @@
+.DS_Store
+HTE Reader/*
+images/*
+saved_files/*
+data/leuven/*
+*.txt
+*.pkl
+__pycache__/*
+.ipynb_checkpoints/*
