@@ -37,6 +37,19 @@ def read_table_1998(p):
     data[w.lower()] = float(ratings[i])
   return data
 
+def read_table_1998_valence(p):
+  data = defaultdict(int)
+  words, valence = [], []
+  with open(p + '/french_edit', 'r') as f:
+    lines = f.readlines()
+    words = [line.strip() for line in lines if line != '\n']
+  with open(p + '/valence', 'r') as f:
+    lines = f.readlines()
+    valence = [v.strip() for v in lines]
+  for i, w in enumerate(words):
+    data[w.lower()] = float(valence[i])
+  return data
+
 '''
 get english equivalents
 '''
@@ -135,10 +148,9 @@ def read_leuven(p):
 def get_hamilton_data(time_start, time_end, time_delta):
   time_range = list(range(time_start, time_end, time_delta))
 
-  HOME = os.environ['HOME']
-  npy_path = HOME + "/data/Hamilton/%d-w.npy"
-  vocab_path = HOME + "/data/Hamilton/%d-vocab.pkl"
-  pos_path = HOME + "/data/Hamilton/%d-pos.pkl"
+  npy_path = os.path.join(npy_path_eng, "%d-w.npy")
+  vocab_path = os.path.join(vocab_path_eng, "%d-vocab.pkl")
+  pos_path = os.path.join(pos_path_eng, "%d-pos.pkl")
 
   data = defaultdict(list)
   pos_data = defaultdict(list)
@@ -166,15 +178,13 @@ def get_hamilton_data(time_start, time_end, time_delta):
 def get_hamilton_data_french(time_start, time_end, time_delta):
   time_range = list(range(time_start, time_end, time_delta))
 
-  HOME = os.environ['HOME']
-  npy_path = HOME + "/data/Hamilton_Fra/sgns/%d-w.npy"
-  vocab_path = HOME + "/data/Hamilton_Fra/sgns/%d-vocab.pkl"
-  pos_path = HOME + "/data/Hamilton_Fra/pos/%d-pos.pkl"
-  freq_path = HOME + "/data/Hamilton_Fra/freqs.pkl"
+  npy_path = os.path.join(npy_path_fra, "%d-w.npy")
+  vocab_path = os.path.join(vocab_path_fra, "%d-vocab.pkl")
+  pos_path = os.path.join(pos_path_fra, "%d-pos.pkl")
 
   data = defaultdict(list)
   pos_data = defaultdict(list)
-  freq_data = pickle.load(open(freq_path, 'rb'), encoding='latin1')
+  freq_data = pickle.load(open(freq_path_fra, 'rb'), encoding='latin1')
   for t in time_range:
     vocab = pickle.load(open(vocab_path % t, 'rb'), encoding='latin1')
     pos = pickle.load(open(pos_path % t, 'rb'), encoding='latin1')

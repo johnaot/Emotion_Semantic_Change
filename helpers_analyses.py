@@ -61,12 +61,12 @@ def regression_results(words, changes, proto, freqs, senses={}, valence={}, prin
   }
   formula = 'change ~ prototypicality + freqs + lens'
   
-  if len(senses) > 0:
-    data['num_senses'] = [senses[w] for w in words]
-    formula += ' + num_senses'
   if len(valence) > 0:
     data['valence'] = [valence[w] for w in words]
     formula += ' + valence'
+  if len(senses) > 0:
+    data['num_senses'] = [senses[w] for w in words]
+    formula += ' + num_senses'
   
   # multiple regression
   df = pd.DataFrame(data) 
@@ -112,7 +112,7 @@ def plot_coefficents(ax, results, predictors):
     'regression coefficients': results.params[1:],
     'predictors': predictors
   }
-  ax = sns.barplot(ax=ax, x="regression coefficients", y="predictors", xerr=results.bse[1:], data=params)
+  ax = sns.barplot(ax=ax, x="regression coefficients", y="predictors", xerr=results.bse[1:], data=params, errwidth=5)
   x = 0.001+max(results.params[1:])
   for i, p in enumerate(results.pvalues[1:]):
     if p < 0.001:
@@ -120,7 +120,7 @@ def plot_coefficents(ax, results, predictors):
     elif p < 0.01:
       ax.text(x, i,  '**', fontsize=30)
     elif p < 0.05:
-      ax.text(x, i, '**', fontsize=30)
+      ax.text(x, i, '*', fontsize=30)
     else:
       ax.text(x, i, 'n.s.', fontsize=30)
   ax.set_ylabel('Predictors', fontsize=30)

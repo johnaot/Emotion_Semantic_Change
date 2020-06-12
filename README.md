@@ -26,6 +26,15 @@ matplotlib
 - HistWords, available from https://nlp.stanford.edu/projects/histwords/
 - Leuven Concept Database, available from https://ppw.kuleuven.be/apps/concat/datasets/brm_concepts/
 
+To run the following notebooks, 
+1. Copy the contents of `exemplar judgments` folder downloaded from the Leuven Concept Database to `./data/leuven/exemplar judgments/`
+2. In `constants.py`, modify
+    - `npy_path_eng` with the path to the folder containing npy files of English sgns vectors from HistWords
+    - `vocab_path_eng` with the path to the folder containing the pkl file of English vocabulary from HistWords
+    - `pos_path_eng` with the path to the folder containing pkl files of English pos from HistWords
+    - `freq_path_eng` with the path to the pkl file of English frequency data from HistWords
+    - repeat the above bullet point for French
+
 ## Execution
 
 ### Illustrating the prototype hypothesis

@@ -1,3 +1,5 @@
+import os
+
 #################### Options ##################
 # pos
 NOUN = 'n'
@@ -17,10 +19,22 @@ FIRST_LAST = 0
 OVERLAP = 2
 
 #################### Data and save files ##################
+HOME = os.environ['HOME']
+
+npy_path_eng = HOME + "/data/Hamilton/"
+vocab_path_eng = HOME + "/data/Hamilton/"
+pos_path_eng = HOME + "/data/Hamilton/"
+
+npy_path_fra = HOME + "/data/Hamilton_Fra/sgns/"
+vocab_path_fra = HOME + "/data/Hamilton_Fra/sgns/"
+pos_path_fra = HOME + "/data/Hamilton_Fra/pos/"
+
+freq_path_eng = "./data/freqs.pkl"
+freq_path_fra = HOME + "/data/Hamilton_Fra/freqs.pkl"
+
 emotion_path = "./data/Emotion_list.xlsx"
 table1_1987_path = "./data/1987_ratings"
 table2_1987_path = "./data/shaver_valence"
-freq_path = "./data/freqs.pkl"
 
 french_1998_path = "./data/french"
 english_1998_path = "./data/french"
@@ -30,8 +44,5 @@ goodness_ratings_path = './data/leuven/exemplar judgments/exemplarGoodnessRating
 norms_1980_path = './data/norms_1980'
 
 save_folder = "./saved_files/"
-csv_file = save_folder + "emotions_%s_%d_%d.csv" # pos, data used, semantic change measure
-pickle_file = save_folder + "changes_%s_%d_%d.pkl" # pos, data used, semantic change measure
-
 HTE_senses = save_folder + "senses_HTE_%s_%d.pkl" # pos, data used
 

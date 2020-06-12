@@ -16,7 +16,7 @@ print('Getting english data')
 proto = read_table_1987(table1_1987_path)
 emotion_words = list(proto.keys())
 data, pos_data = get_hamilton_data(time_start, time_end, time_delta)
-freqs_all = pickle.load(open(freq_path, 'rb'), encoding='latin1')
+freqs_all = pickle.load(open(freq_path_eng, 'rb'), encoding='latin1')
 
 print('Getting french data')
 proto_fr = read_table_1998(french_1998_path)
