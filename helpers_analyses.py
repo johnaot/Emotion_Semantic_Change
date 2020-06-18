@@ -3,9 +3,10 @@ import pickle
 
 import numpy as np
 import seaborn as sns
+sns.set_style("ticks")
+sns.despine()
 import matplotlib.pyplot as plt
 import pandas as pd
-sns.set()
 from scipy.stats.stats import pearsonr, spearmanr
 import statsmodels.api as sm
 import statsmodels.formula.api as smf
@@ -90,12 +91,13 @@ def regression_results(words, changes, proto, freqs, senses={}, valence={}, prin
   pp2 = part_corr_freq['p-val'].iloc[0]
   return(results, len(words), pr, pp, pr2, pp2)
 
-def plot_change_scatter(ax, words, proto, changes):
+def plot_change_scatter(ax, words, proto, changes, colour='tab:red'):
   df = pd.DataFrame({
     'prototypicality': [proto[w] for w in words], 
     'change': [changes[w] for w in words], 
   }) 
-  ax = sns.regplot(ax=ax, x="prototypicality", y="change", data=df)
+  ax.scatter([proto[w] for w in words], [changes[w] for w in words], color=colour, alpha=0.5)
+  ax = sns.regplot(ax=ax, x="prototypicality", y="change", scatter=False, color=colour, data=df)
   ax.xaxis.set_tick_params(labelsize=20)
   ax.yaxis.set_tick_params(labelsize=20) 
   ax.set_xlabel('Prototypicality Rating', fontsize=30)
