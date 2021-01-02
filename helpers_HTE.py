@@ -40,6 +40,8 @@ def get_senses(sense_file, words, t_to_use):
           t['ending_time'] = t['starting_time']
         processed_time = (t['starting_time'], t['ending_time'])
         processed_times.append(processed_time)
+    if len(processed_times) == 0:
+      continue
     first[w] = sorted([t[0] for t in processed_times])[0]
     num_senses[w] = len([t for t in processed_times if t[0] <= t_to_use and t[-1] >= t_to_use])
   return(num_senses, first)

@@ -18,7 +18,6 @@ scipy
 pandas
 scikit-learn
 statsmodel
-pingouin
 seaborn
 matplotlib
 ```
@@ -26,11 +25,9 @@ matplotlib
 ### Data
 
 - HistWords, available from https://nlp.stanford.edu/projects/histwords/
-- Leuven Concept Database, available from https://ppw.kuleuven.be/apps/concat/datasets/brm_concepts/
 
 To run the following notebooks, 
-1. Copy the contents of `exemplar judgments` folder downloaded from the Leuven Concept Database to `./data/leuven/exemplar judgments/`
-2. In `constants.py`, modify
+1. In `constants.py`, modify
     - `npy_path_eng` with the path to the folder containing npy files of English sgns vectors from HistWords
     - `vocab_path_eng` with the path to the folder containing the pkl file of English vocabulary from HistWords
     - `pos_path_eng` with the path to the folder containing pkl files of English pos from HistWords
@@ -39,25 +36,17 @@ To run the following notebooks,
 
 ## Execution
 
-### Illustrating the prototype hypothesis
+### Illustrating the hypothesis
 
-To generate the illustration for our main hypothesis, run `jupyter notebook figure_1`
+To generate the illustration for our main hypothesis, run `jupyter notebook hypothesis`
 
-### Reconstruction of prototypicality
+### Analyses of emotion semantic change and bird names
 
-To run reconstruction of human prototypicality and create figure 2, run `jupyter notebook figure_2`
+To run regression analyses on semantic change of emotion words and create figure 3, run `jupyter notebook analyses`
 
-### Analyses of emotion semantic change
+### Historical analysis of prototypicality judgement
 
-To run regression analyses on semantic change of emotion words and create figure 3, run `jupyter notebook figure_3`
-
-### Analyses of semantic change in bird names
-
-To run regression analyses on semantic change of bird names and create figure 4, run `jupyter notebook figure_4`
-
-### Historical analyses of prototypicality judgement
-
-To perform analyses described in SI section 1, run `jupyter notebook SI_section_1`
+To perform the analysis described in Supplementary Information (SI) section 1, run `jupyter notebook SI_section_1`
 
 ### Evaluation of the nearest-neighbour measure
 
@@ -65,17 +54,13 @@ To perform analyses described in SI section 2, run `jupyter notebook SI_section_
 
 ### Category-bounded analyses of emotion semantic change
 
-To perform analyses described in SI section 3, run `jupyter notebook SI_section_3`
+To perform analyses described in SI section 3.1, run `jupyter notebook analyses`
 
-### Other factors of emotion semantic chang
+### Other factors of emotion semantic change
 
-To perform analyses described in SI section 4, run `jupyter notebook SI_section_4`
+To perform analyses described in SI section 3,2, run `jupyter notebook analyses_other`
 
-### Comparison of semantic change in emotion and bird categories
+### Analysis using empirical emotion prototypicality ratings
 
-To perform analyses described in SI section 5, run `jupyter notebook SI_section_5`
-
-### Analyses of other semantic categories
-
-To perform analyses described in SI section 6, run `jupyter notebook SI_section_6`
+To perform the analysis described in SI section 3.3, run `jupyter notebook analyses_other`
 

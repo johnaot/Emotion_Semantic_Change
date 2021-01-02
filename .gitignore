@@ -3,7 +3,9 @@ HTE Reader/*
 images/*
 saved_files/*
 data/leuven/*
+*.svg
 *.txt
 *.pkl
+*.xlsx
 __pycache__/*
 .ipynb_checkpoints/*
