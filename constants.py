@@ -47,4 +47,5 @@ bird_rosch_1975_path = "./data/1975_birds"
 
 save_folder = "./saved_files/"
 HTE_senses = save_folder + "senses_HTE_%s_%d.pkl" # pos, data used
+aoa_data = "./data/AoA_all.xlsx"
 

@@ -35,4 +35,5 @@ fr_words = lambda w: (w in pos_data_fr) and (len(pos_data_fr[w]) > 0) and (pos_d
 words_fr = [w for w in emotion_words_fr if fr_words(w)]
 
 proto_rosch = read_table_1987(bird_rosch_1975_path)
+proto_rosch = {k: -v for k, v in proto_rosch.items()} # invert so the direction is the same as in emotion
 words_rosch = list(proto_rosch.keys())
