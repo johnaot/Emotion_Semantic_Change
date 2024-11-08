@@ -1,8 +1,8 @@
 Emotion Semantic Change
 ======
 
-This repository contains replication code, and data that accompany the
-paper: Xu, A., Stellar, J.E., and Xu, Y. (to appear) Evolution of
+This repository contains replication code and data that accompany the following
+paper: Xu, A., Stellar, J.E., and Xu, Y. (2021) Evolution of
 emotion semantics. Cognition.
 
 ## Dependencies
